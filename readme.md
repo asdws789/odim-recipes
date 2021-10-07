@@ -1,2 +1,1 @@
-This is a project for the odin project. It is a website with recipes.
-
+This is a beginner project i am doing while following the odin project. This project is a website containing recipes.
